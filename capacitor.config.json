@@ -1,0 +1,18 @@
+{
+  "appId": "com.mengbao.xingqiu",
+  "appName": "萌宝星球",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#f8fafc",
+      "androidScaleType": "CENTER_CROP",
+      "splashFullScreen": true
+    }
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}

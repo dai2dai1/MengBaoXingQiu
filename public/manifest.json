@@ -1,0 +1,23 @@
+{
+  "name": "萌宝星球 - 儿童成长积分",
+  "short_name": "萌宝星球",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "description": "专业的高颜值儿童成长积分记录工具与家庭协作App",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
